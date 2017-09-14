@@ -1,2 +1,2 @@
-# computational_physics_N2015301510014
-Just another repository~
+# homework list
+- [ ] [exercise_02：打出自己的名字]()

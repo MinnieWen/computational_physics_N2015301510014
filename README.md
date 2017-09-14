@@ -1,2 +1,2 @@
 # homework list
-- [ ] [exercise_02：打出自己的名字]()
+[exercise_02：打出自己的名字]()

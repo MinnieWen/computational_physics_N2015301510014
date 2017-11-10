@@ -6,3 +6,4 @@
 - [x] [Exercise_05:Chapter2:THROWING A BASEBALL:2.20](http://note.youdao.com/noteshare?id=e34cc1c2ae93f5747b5adef9a114e9ca)/[Code](http://note.youdao.com/noteshare?id=c5f518b95129aae4eb94e1bc82b022b1)
 - [x] [Exercise_06:Chapter3:Chaos in the Driven Nonlinear Pendulum:3.11](http://note.youdao.com/noteshare?id=fc3f72b90f2179b1472a9b4353d2333c)/[Code](http://note.youdao.com/noteshare?id=b258198b449e64dfbf530ce363c6e7f9)
 - [x] [Exercise 07:Chapter3:The Lorenz Model:3.26](http://note.youdao.com/noteshare?id=800544f71cf165c6088526271cc6636d)/[Code](http://note.youdao.com/noteshare?id=6338aa5b2bbab7c6b532f47b42ff838b)
+- [x] [Exercise 08:Chapter3:The Billiard Problem:3.31](http://note.youdao.com/noteshare?id=bc0b25ae035119737a4b48a573ba0c07)/[Code](http://note.youdao.com/noteshare?id=d44a2451774005811eb6cd72bd027399)

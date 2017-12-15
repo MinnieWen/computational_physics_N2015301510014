@@ -10,4 +10,4 @@
 - [x] [Midterm Project:A Game](http://note.youdao.com/noteshare?id=fd9cf1cd5e1ee5d90b10edaa97659988)／[Click here to download the game](http://note.youdao.com/noteshare?id=6a426f201e8f9a0958753e15fcee06ef)
 - [x] [Exercise_09:Chapter4:The Three-Body Problem:4.16](http://note.youdao.com/noteshare?id=00a2fabb12b1de8f7db8a029d20ea5d9)/[Code](http://note.youdao.com/noteshare?id=4de17e871829a5bbc1105a219ac0d202)
 - [x] [Exercise_10:Chapter5:Electric Potentials and Fields:5.3](http://note.youdao.com/noteshare?id=fc20f3f14f90fbae9af8b00b340e110a)/[Code](http://note.youdao.com/noteshare?id=8b53508443ebc231a548b3cdf4c306c0)
-- [x] [Exercise_11:]()/
+- [x] [Exercise_11:Chapter6:Waves:The Ideal Case](http://note.youdao.com/noteshare?id=75c1b0d8687b3ae56371e22287934d69)/[Code](http://note.youdao.com/noteshare?id=31579974a178833b0ae12eac1cf535aa)
